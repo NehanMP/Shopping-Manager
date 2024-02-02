@@ -1,0 +1,40 @@
+Clothing Item
+Product ID - WfEgIygdP4
+Product Name - Shirt
+Available Product Count - 3
+Product Price - 4000
+Product Colour - red
+Product Size - M
+
+Electronic Item
+Product ID - b958lR0nsq
+Product Name - Mobile
+Available Product Count - 6
+Product Price - 4000
+Product Brand - apple
+Product Warranty Period - 12
+
+Electronic Item
+Product ID - iSjaK8gzYI
+Product Name - Mobile
+Available Product Count - 6
+Product Price - 25000
+Product Brand - Samsung
+Product Warranty Period - 2
+
+Electronic Item
+Product ID - mJh63FqnjF
+Product Name - Mouse
+Available Product Count - 2
+Product Price - 10000
+Product Brand - Razor
+Product Warranty Period - 12
+
+Clothing Item
+Product ID - oQAlCnBAdQ
+Product Name - Shirt
+Available Product Count - 20
+Product Price - 5000
+Product Colour - M
+Product Size - red
+
