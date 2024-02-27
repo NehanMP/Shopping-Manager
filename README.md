@@ -7,6 +7,7 @@ This project was created for the IIT's 2nd year 1st semester OOP module coursewo
 
 ## Note 
 <li>Ensure that Java swing packages are properly configured.</li>
+<li>Clone the project and run the main class in the src folder.</li>
 
 ## License
 <li>This project is licensed under the MIT License - see the LICENSE.md file for details.</li>
